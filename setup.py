@@ -81,7 +81,7 @@ setup(
         ],
     },
     packages=find_packages(),
-    python_requires='>=3.7, <3.11',
+    python_requires='>=3.7',
     classifiers=[
         'Intended Audience :: Developers',
         'Intended Audience :: Science/Research',
